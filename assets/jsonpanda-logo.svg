@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">JSON Panda logo</title>
+  <desc id="desc">A panda face inside JSON brackets.</desc>
+  <rect width="512" height="512" rx="112" fill="#111827"/>
+  <path d="M150 176 92 256l58 80" fill="none" stroke="#60a5fa" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m362 176 58 80-58 80" fill="none" stroke="#60a5fa" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="258" r="118" fill="#f9fafb"/>
+  <circle cx="177" cy="166" r="42" fill="#111827"/>
+  <circle cx="335" cy="166" r="42" fill="#111827"/>
+  <ellipse cx="215" cy="246" rx="33" ry="40" fill="#111827"/>
+  <ellipse cx="297" cy="246" rx="33" ry="40" fill="#111827"/>
+  <circle cx="226" cy="234" r="8" fill="#f9fafb"/>
+  <circle cx="308" cy="234" r="8" fill="#f9fafb"/>
+  <path d="M244 292h24l-12 14z" fill="#111827"/>
+  <path d="M224 330c17 18 47 18 64 0" fill="none" stroke="#111827" stroke-width="14" stroke-linecap="round"/>
+</svg>
